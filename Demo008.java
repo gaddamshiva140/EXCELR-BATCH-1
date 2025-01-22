@@ -10,7 +10,7 @@ public class Demo08 {
             username = sc.next();
             System.out.print("Enter password: ");
             pass = sc.next();
-        }while((!username.equals("Sravanthi6"))||(!pass.equals("sravs4ever06")));
+        }while((!username.equals("Shiva"))||(!pass.equals("vivek")));
         System.out.println("Successfully logged in.");
     }
 }
