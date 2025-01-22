@@ -1,9 +1,9 @@
 public class userdetails {
     public static void main (String[] args){
-        String username= "Sravanthi06";
-        String pwd="sravs4ever06";
-        while((username == "Sravanthi06") && (pwd == "sravs4ever06")) {
-            System.out.println("Hello Sravanthi you are welcome");
+        String username= "Shiva";
+        String pwd="vivek";
+        while((username == "Shiva") && (pwd == "vivek")) {
+            System.out.println("Hello Shiva you are welcome");
             break;
         }
     }
