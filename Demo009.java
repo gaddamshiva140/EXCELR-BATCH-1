@@ -1,6 +1,6 @@
  import java.util.Scanner;
  public class BankDetails {
-    String Cust_Name = "Sravanthi";
+    String Cust_Name = "Shiva";
     long Account_no = 1234567890;
     Double Balance = 20000.00;
     void accept_details(){
